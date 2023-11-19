@@ -1,4 +1,4 @@
-![image-1](https://github.com/Kishoreyyy/Calc/assets/119157062/5494876c-7c48-4ca2-865b-6276d14bf394)# Ex.08 Design of a Standard Calculator
+# Ex.08 Design of a Standard Calculator
 ## Date:
 
 ## AIM:
